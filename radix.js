@@ -11,7 +11,7 @@ if(true) {
  * @references
  *  - https://apple.stackexchange.com/questions/364789/why-isnt-a-binary-file-shown-as-0s-and-1s
  *  - https://www.w3schools.com/charsets/ref_utf_basic_latin.asp
- *  - 
+ *  - xxd -b binary.bin
  */
 
 
